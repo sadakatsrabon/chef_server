@@ -1,0 +1,30 @@
+[
+{
+    "id": 101,
+    "name": "rice_recipes",
+    "img": "",
+    "recipes":"Rice, Polao, Biriani, Khicuri",
+    "chefs": "Asad Khan"
+},
+{
+    "id": 102,
+    "name": "Potato_recipes",
+    "img": "",
+    "recipes":"Potato_Vorta, Potato_Vazi, Potato_Dal, Potato_Ranna",
+    "chefs": "Asad Ali"
+},
+{
+    "id": 103,
+    "name": "Egg_recipes",
+    "img": "",
+    "recipes":"Egge_Omlet, Egg_fry, Coocked_Egg, Egg_Khicuri",
+    "chefs": "Asad Mia"
+},
+{
+    "id": 104,
+    "name": "Chiken_recipes",
+    "img": "",
+    "recipes":"Chiken_Fry, Chiken_Coocked, Ckene_Biriani, Morog_Poalo",
+    "chefs": "Asad Hossain"
+}
+]
